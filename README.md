@@ -27,9 +27,4 @@ Vandaag ben ik vanuit het kantoor in Geel om half 9 vertrokken naar een bedrijf 
 Stein heeft me ook hun server laten zien met vrijwel geen cable-management.
 
 ![ServerLidwina](()serverLidwina.jpg)
-img[ServerLidwina] {height: 50%; }
-
-
-
-
 ## 2021-10-8
