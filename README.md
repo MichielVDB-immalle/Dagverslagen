@@ -22,7 +22,7 @@ Deze keer was er niet echt een klant voor hem dus hielp hij tickets(problemen) o
 Ik heb ook mijn issue van github opgelost en verbeterd vandaag.
 
 ## 2021-10-7
-Vandaag ben ik vanuit het kantoor in Geel om half 9 vertrokken naar een bedrijf in Mol, een maatwerkbedrijf waar ongeveer 550 mensen werken waarvan 500 mensen zijn met (meestal mentale, sommigen een fysieke) beperking. Er waren hier een paar kleine account problemen met de thin-clients en een probleem met een applicatie *powerapps*. Dit probleem is niet opgelost omdat blijkt dat het bij Microsoft zelf ligt.
+Vandaag ben ik vanuit het kantoor in Geel om half 9 vertrokken naar een bedrijf in Mol, __Lidwina__ een maatwerkbedrijf waar ongeveer 550 mensen werken waarvan 500 mensen zijn met (meestal mentale, sommigen een fysieke) beperking. Er waren hier een paar __kleine account problemen__ met de thin-clients en een probleem met een applicatie __*powerapps*__. Dit probleem is niet opgelost omdat blijkt dat het bij Microsoft zelf ligt.
 
 Stein heeft me ook hun server laten zien met vrijwel geen cable-management.
 
