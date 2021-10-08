@@ -28,3 +28,6 @@ Stein heeft me ook hun server laten zien met vrijwel geen cable-management.
 
 ![ServerLidwina](()serverLidwina.jpg)
 ## 2021-10-8
+Vandaag ben om 8u aan het kantoor in geel vertrokken naar __VOKA__ (Vlaams netwerk van Ondernemingen) dit is een werkgeversorganisatie. Het bedrijf werkt volledig in de cloud i.p.v. op een eigen server.
+
+Stein heeft hier de __drivers van een laptop geupdate__ en een outlook hersteld want daar was een exstensie corrupt waardoor het programma altijd crashed. En hij heeft __malware__ gevonden en verwijderd op een andere laptop.
